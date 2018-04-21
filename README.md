@@ -9,7 +9,7 @@ Install matlplotlib, pandas, seaborn, sklearn and numpy libraries.
 
 ## Authors
 
-* **Vishnu** - *Initial work* - [data science playgoround](https://github.com/Vishnuvardhan777)
+* **Vishnu** - *Initial work* - [Vishnu](https://github.com/Vishnuvardhan777)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
