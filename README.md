@@ -1,6 +1,6 @@
 # Project Title
 
-This Project contains mini projects that i worked on.
+Mini projects to get a base idea on area of analytis and machine learning.
 
 
 ### Prerequisites
